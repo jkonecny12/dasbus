@@ -1,4 +1,4 @@
-# dasbus
+# dasbus -
 This DBus library is written in Python 3, based on GLib and inspired by pydbus. Find out more in
 the [documentation](https://dasbus.readthedocs.io/en/latest/).
 
